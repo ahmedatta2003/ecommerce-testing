@@ -1,4 +1,5 @@
-🛒 E-Commerce Testing Project (Full QA Automation Suite)
+E-Commerce Testing Project (Full QA Automation Suite)
+
 Project Overview
 
 This project represents a complete QA process for an E-commerce web application, built by a single QA Engineer simulating a real-world company environment.
